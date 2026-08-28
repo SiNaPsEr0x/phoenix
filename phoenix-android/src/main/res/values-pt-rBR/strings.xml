@@ -474,7 +474,7 @@
     <string name="lnurl_pay_error_invalid_chain">A fatura retornada por <b>%1$s</b> não usa a mesma cadeia de carteira.</string>
     <string name="lnurl_pay_error_already_paid">A fatura devolvida por <b>%1$s</b> já foi paga.</string>
     <string name="lnurl_pay_error_invalid_amount">A fatura retornada por <b>%1$s</b> tem um valor incorreto.</string>
-    <string name="lnurl_pay_error_invalid_malformed">A fatura retornada por <b>%1$s</b> está malformada</string>
+    <string name="lnurl_pay_error_invalid_malformed">A fatura retornada por <b>%1$s</b> está malformada:\n%2$s</string>
 
     <!-- settings: display preferences -->
 

@@ -479,7 +479,7 @@
     <string name="lnurl_pay_error_invalid_chain">Hóa đơn trả lại bởi <b>%1$s</b> không sử dụng cùng chuỗi với ví của bạn.</string>
     <string name="lnurl_pay_error_already_paid">Hóa đơn trả lại bởi <b>%1$s</b> đã được thanh toán.</string>
     <string name="lnurl_pay_error_invalid_amount">Hóa đơn trả lại bởi <b>%1$s</b> ghi không đúng số tiền.</string>
-    <string name="lnurl_pay_error_invalid_malformed">Hóa đơn trả lại bởi <b>%1$s</b> không đúng định dạng.</string>
+    <string name="lnurl_pay_error_invalid_malformed">Hóa đơn trả lại bởi <b>%1$s</b> không đúng định dạng:\n%2$s</string>
 
     <!-- settings: display preferences -->
 

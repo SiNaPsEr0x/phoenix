@@ -630,7 +630,7 @@
     <string name="lnurl_pay_error_payment_pending">La requête de paiement renvoyée par <b>%1$s</b> est déjà en train d\'être payée.</string>
     <string name="lnurl_pay_error_already_paid">La requête de paiement renvoyée par <b>%1$s</b> a déjà été réglée.</string>
     <string name="lnurl_pay_error_invalid_amount">Le montant de la requête de paiement renvoyée par <b>%1$s</b> est incorrect.</string>
-    <string name="lnurl_pay_error_invalid_malformed">La requête de paiement renvoyée par <b>%1$s</b> est malformée.</string>
+    <string name="lnurl_pay_error_invalid_malformed">La requête de paiement renvoyée par <b>%1$s</b> est malformée:\n%2$s</string>
 
     <!-- settings: display preferences -->
 

@@ -527,7 +527,7 @@
     <string name="lnurl_pay_error_invalid_chain">Ankara iliyorudishwa na <b>%1$s</b> haiutumii mnyororo sawa na pochi yako.</string>
     <string name="lnurl_pay_error_already_paid">Ankara iliyorudishwa na <b>%1$s</b> tayari imelipwa.</string>
     <string name="lnurl_pay_error_invalid_amount">Ankara iliyorudishwa na <b>%1$s</b> ina kiasi kisicho sahihi.</string>
-    <string name="lnurl_pay_error_invalid_malformed">Ankara iliyorudishwa na <b>%1$s</b> imevunjika.</string>
+    <string name="lnurl_pay_error_invalid_malformed">Ankara iliyorudishwa na <b>%1$s</b> imevunjika:\n%2$s</string>
 
     <!-- settings: display preferences -->
 
