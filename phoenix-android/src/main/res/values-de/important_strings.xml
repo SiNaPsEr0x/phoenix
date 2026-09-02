@@ -471,8 +471,8 @@
 
     <string name="swapinrefund_title">Ausgeben eines abgelaufenen Swap-ins</string>
     <string name="swapinrefund_none_available_label">Keine abgelaufenen Swap-Ins.</string>
-    <string name="swapinrefund_available_label">Verfügbare Gelder : <b>%1$s</b> (%2$s)</string>
-    <string name="swapinrefund_instructions_1">Verwenden Sie diesen Screen, um on-chain Einlagen auszugeben, die nicht rechtzeitig auf Lightning umgeschaltet wurden. Beachten Sie, dass dies keine Auswirkungen auf Ihre Lightning-Kanäle hat.</string>
+    <string name="swapinrefund_available_label">Auszugebender Betrag: <b>%1$s</b> (%2$s)</string>
+    <string name="swapinrefund_instructions_1">Verwenden Sie diesen Screen, um alle Einlagen der Swap-in-Wallet auszugeben, die nicht rechtzeitig auf Lightning umgeschaltet wurden und nun abgelaufen sind. Dies hat keine Auswirkungen auf Ihre bestehenden Lightning-Kanäle oder die ausstehenden Swap-ins.</string>
     <string name="swapinrefund_instructions_2">Stellen Sie sicher, dass die Zieladresse korrekt ist und die Gebühren angemessen sind.</string>
     <string name="swapinrefund_estimate_button">Gebühren abschätzen</string>
     <string name="swapinrefund_estimating">Gebührenvoranschlag…</string>
@@ -487,9 +487,9 @@
     <!-- Final wallet refund -->
 
     <string name="finalwallet_refund_title">Guthaben aus der Final Wallet ausgeben</string>
-    <string name="finalwallet_refund_available_none">Kein Guthaben verfügbar</string>
-    <string name="finalwallet_refund_available">Verfügbarer Betrag</string>
-    <string name="finalwallet_refund_instructions">Verwenden Sie diesen Screen, um Guthaben aus Ihrer finalen Wallet auszugeben. Diese Gelder stammen aus Kanälen, die in der Vergangenheit geschlossen wurden. Dies hat keine Auswirkungen auf Ihre bestehenden Lightning-Kanäle.</string>
+    <string name="finalwallet_refund_available_none">Kein Guthaben zum Ausgeben</string>
+    <string name="finalwallet_refund_available">Auszugebender Betrag</string>
+    <string name="finalwallet_refund_instructions">Verwenden Sie diesen Screen, um das gesamte Guthaben Ihrer finalen Wallet auszugeben. Diese Gelder stammen aus Kanälen, die in der Vergangenheit geschlossen wurden. Dies hat keine Auswirkungen auf Ihre bestehenden Lightning-Kanäle.</string>
 
     <!-- experimental features -->
 

@@ -55001,42 +55001,42 @@
         }
       }
     },
-    "Use this screen to spend funds from your final wallet. These funds come from channels that have been closed in the past. This does not affect your existing Lightning channels." : {
+    "Use this screen to spend all the deposits on your swap-in wallet that were not swapped in time and have now expired. This does not affect your existing Lightning channels, or the pending swap-ins." : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استخدم هذه الشاشة لإنفاق الأموال من محفظتك النهائية. تأتي هذه الأموال من القنوات التي تم إغلاقها في الماضي. هذا لا يؤثر على قنوات Lightning الحالية الخاصة بك."
+            "value" : "استخدم هذه الشاشة لإنفاق جميع الودائع الموجودة في محفظة swap-in التي لم يتم تبديلها في الوقت المناسب وانتهت صلاحيتها الآن. هذا لا يؤثر على قنوات Lightning الحالية الخاصة بك، ولا على عمليات swap-in المعلقة."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Na této obrazovce můžete utratit prostředky z konečné peněženky. Tyto prostředky pocházejí z kanálů, které byly v minulosti uzavřeny. Toto neovlivní vaše stávající Lightning kanály."
+            "value" : "Na této obrazovce můžete utratit všechny vklady ve swap-in peněžence, které nebyly včas převedeny na Lightning a jejichž platnost již vypršela. Vaše stávající Lightning kanály ani probíhající swap-iny nebudou ovlivněny."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verwenden Sie diesen Screen, um Guthaben aus Ihrer finalen Wallet auszugeben. Diese Gelder stammen aus Kanälen, die in der Vergangenheit geschlossen wurden. Dies hat keine Auswirkungen auf Ihre bestehenden Lightning-Kanäle."
+            "value" : "Verwenden Sie diesen Screen, um alle Einlagen der Swap-in-Wallet auszugeben, die nicht rechtzeitig auf Lightning umgeschaltet wurden und nun abgelaufen sind. Dies hat keine Auswirkungen auf Ihre bestehenden Lightning-Kanäle oder die ausstehenden Swap-ins."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilice esta pantalla para gastar fondos de su billetera final. Estos fondos proceden de canales que se han cerrado en el pasado. Esto no afecta a sus canales Lightning existentes."
+            "value" : "Utilice esta pantalla para gastar todos los depósitos de la billetera swap-in que no se cambiaron a Lightning a tiempo y que ya han expirado. Esto no afecta a sus canales Lightning existentes ni a los swap-ins pendientes."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilice esta pantalla para gastar fondos de su billetera final. Estos fondos proceden de canales que se han cerrado en el pasado. Esto no afecta a sus canales Lightning existentes."
+            "value" : "Utilice esta pantalla para gastar todos los depósitos de la billetera swap-in que no se cambiaron a Lightning a tiempo y que ya han expirado. Esto no afecta a sus canales Lightning existentes ni a los swap-ins pendientes."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilisez cet écran pour dépenser les fonds de votre portefeuille final. Ces fonds proviennent de canaux qui ont été fermés par le passé. Cela n\\'affecte pas les canaux Lightning existants."
+            "value" : "Utilisez cet écran pour dépenser tous les dépôts du portefeuille de swap-in qui n'ont pas été passés sur Lightning à temps et qui ont maintenant expiré. Cela n'affecte en rien vos canaux Lightning existants, ni les swap-ins en attente."
           }
         },
         "ko" : {
@@ -55047,42 +55047,42 @@
         }
       }
     },
-    "Use this screen to spend your on-chain funds that were not swapped in time. The swap-in request has now expired." : {
+    "Use this screen to spend all the funds on your final wallet. These funds come from channels that have been closed in the past. This does not affect your existing Lightning channels." : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استخدم هذه الشاشة لإنفاق أموالك في السلسلة التي لم يتم تبديلها في الوقت المناسب. انتهت صلاحية طلب المبادلة الآن."
+            "value" : "استخدم هذه الشاشة لإنفاق جميع الأموال الموجودة في محفظتك النهائية. تأتي هذه الأموال من القنوات التي تم إغلاقها في الماضي. هذا لا يؤثر على قنوات Lightning الحالية الخاصة بك."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Na této obrazovce můžete utratit prostředky v řetězci, které nebyly včas vyměněny. Platnost žádosti o výměnu již vypršela."
+            "value" : "Na této obrazovce můžete utratit všechny prostředky z konečné peněženky. Tyto prostředky pocházejí z kanálů, které byly v minulosti uzavřeny. Toto neovlivní vaše stávající Lightning kanály."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verwenden Sie diesen Bildschirm, um Ihre On-Chain-Gelder auszugeben, die nicht rechtzeitig getauscht wurden. Die Swap-In-Anforderung ist jetzt abgelaufen."
+            "value" : "Verwenden Sie diesen Screen, um das gesamte Guthaben Ihrer finalen Wallet auszugeben. Diese Gelder stammen aus Kanälen, die in der Vergangenheit geschlossen wurden. Dies hat keine Auswirkungen auf Ihre bestehenden Lightning-Kanäle."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utiliza esta pantalla para gastar tus fondos en la cadena que no fueron canjeados a tiempo. La solicitud de canje ha caducado."
+            "value" : "Utilice esta pantalla para gastar todos los fondos de su billetera final. Estos fondos proceden de canales que se han cerrado en el pasado. Esto no afecta a sus canales Lightning existentes."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utiliza esta pantalla para gastar tus fondos en la cadena que no fueron canjeados a tiempo. La solicitud de canje ha caducado."
+            "value" : "Utilice esta pantalla para gastar todos los fondos de su billetera final. Estos fondos proceden de canales que se han cerrado en el pasado. Esto no afecta a sus canales Lightning existentes."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilisez cet écran pour dépenser vos fonds sur la chaîne qui n'ont pas été échangés à temps. La demande de swap-in a maintenant expiré."
+            "value" : "Utilisez cet écran pour dépenser tous les fonds de votre portefeuille final. Ces fonds proviennent de canaux qui ont été fermés par le passé. Cela n'affecte pas les canaux Lightning existants."
           }
         },
         "ko" : {

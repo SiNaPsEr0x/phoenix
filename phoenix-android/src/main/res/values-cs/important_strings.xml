@@ -476,8 +476,8 @@
 
     <string name="swapinrefund_title">Utratit zrušené swap-ins</string>
     <string name="swapinrefund_none_available_label">Žádné zrušené swap-ins.</string>
-    <string name="swapinrefund_available_label">Dostupné prostředky: <b>%1$s</b> (%2$s)</string>
-    <string name="swapinrefund_instructions_1">Tato obrazovka slouží k utracení on-chain vkladů, které nebyly včas převedeny na Lightning. Vaše kanály nebudou ovlivněny.</string>
+    <string name="swapinrefund_available_label">Částka k utracení: <b>%1$s</b> (%2$s)</string>
+    <string name="swapinrefund_instructions_1">Tato obrazovka slouží k utracení všech vkladů ve swap-in peněžence, které nebyly včas převedeny na Lightning a jejichž platnost již vypršela. Vaše stávající Lightning kanály ani probíhající swap-iny nebudou ovlivněny.</string>
     <string name="swapinrefund_instructions_2">Ujistěte se, že cílová adresa je správná a poplatky přiměřené.</string>
     <string name="swapinrefund_estimate_button">Odhad poplatků</string>
     <string name="swapinrefund_estimating">Odhadování poplatků…</string>
@@ -492,9 +492,9 @@
     <!-- Final wallet refund -->
 
     <string name="finalwallet_refund_title">Utratit prostředky z konečné peněženky</string>
-    <string name="finalwallet_refund_available_none">Nejsou k dispozici žádné prostředky</string>
-    <string name="finalwallet_refund_available">Dostupná částka</string>
-    <string name="finalwallet_refund_instructions">Na této obrazovce můžete utratit prostředky z konečné peněženky. Tyto prostředky pocházejí z kanálů, které byly v minulosti uzavřeny. Toto neovlivní vaše stávající Lightning kanály.</string>
+    <string name="finalwallet_refund_available_none">Žádné prostředky k utracení</string>
+    <string name="finalwallet_refund_available">Částka k utracení</string>
+    <string name="finalwallet_refund_instructions">Na této obrazovce můžete utratit všechny prostředky z konečné peněženky. Tyto prostředky pocházejí z kanálů, které byly v minulosti uzavřeny. Toto neovlivní vaše stávající Lightning kanály.</string>
 
     <!-- experimental features -->
 
